@@ -1,6 +1,6 @@
 <div align="center">
 
-# Karunya Ramasubramanian
+#Hi 👋, I'm Karunya Ramasubramanian
 
 ### Final Year B.Tech | Artificial Intelligence & Data Science
 
@@ -45,17 +45,6 @@ Transforming Data into Intelligent Business Solutions
 ---
 
 # 🚀 Featured Projects
-
-## 📈 AI-Powered Sales Forecasting System
-
-- Developed an LSTM-based Sales Forecasting Model
-- Performed Data Preprocessing & Feature Engineering
-- Built Interactive Business Dashboard
-- Generated Business Insights using AI
-
-*Technologies:* Python • LSTM • Pandas • NumPy • Power BI
-
----
 
 ## 🛡️ AI Cyberbullying Detector
 
