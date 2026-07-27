@@ -32,21 +32,6 @@ Final Year B.Tech Artificial Intelligence & Data Science Student
 
 ---
 
-# 📂 Featured Projects
-
-### 📈 AI-Powered Sales Forecasting System
-
-- Sales Prediction using LSTM
-- Data Processing
-- Dashboard Visualization
-
-### 🛡️ AI Cyberbullying Detector
-
-- NLP
-- Machine Learning
-- Text Classification
-
----
 
 # 📜 Certifications
 
