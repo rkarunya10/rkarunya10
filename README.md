@@ -1,6 +1,6 @@
 <div align="center">
 
-#Hi 👋, I'm Karunya Ramasubramanian
+# Hi 👋, I'm Karunya Ramasubramanian
 
 ### Final Year B.Tech | Artificial Intelligence & Data Science
 
