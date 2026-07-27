@@ -1,16 +1,66 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Karunya Ramasubramanian</h1>
 
-<!--
-**rkarunya10/rkarunya10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Final Year B.Tech Artificial Intelligence & Data Science Student
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+📊 Aspiring Data Analyst • 📈 Business Analytics • 🤖 Artificial Intelligence • 🧠 AI & ML Enthusiast
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🚀 About Me
+
+- 🎓 Final Year B.Tech AI & Data Science Student
+- 📊 Passionate about Data Analytics & Business Analytics
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 💡 Love solving real-world problems using data
+- 🌱 Currently learning Advanced AI & Analytics
+
+---
+
+# 💻 Tech Stack
+
+- 🐍 Python
+- 🗄️ SQL
+- 📊 Power BI
+- 📈 Microsoft Excel
+- 🐼 Pandas
+- 🔢 NumPy
+- 📉 Matplotlib
+
+---
+
+# 📂 Featured Projects
+
+### 📈 AI-Powered Sales Forecasting System
+
+- Sales Prediction using LSTM
+- Data Processing
+- Dashboard Visualization
+
+### 🛡️ AI Cyberbullying Detector
+
+- NLP
+- Machine Learning
+- Text Classification
+
+---
+
+# 📜 Certifications
+
+- AI & Data Science
+- Python
+- Power BI
+
+---
+
+# 📫 Connect
+
+- 💼 LinkedIn
+- 📧 Email
+
+---
+
+⭐ Always learning, building and growing in AI & Data Analytics.
