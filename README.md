@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Karunya Ramasubramanian</h1>
+<div align="center">
 
-<h3 align="center">Final Year B.Tech Artificial Intelligence & Data Science Student</h3>
+# Karunya Ramasubramanian
 
-<p align="center">
-📊 Data Analytics • 📈 Business Analytics • 🤖 Artificial Intelligence • 🧠 AI & ML Enthusiast
-</p>
+### Final Year B.Tech | Artificial Intelligence & Data Science
 
-<p align="center">
-<i>Transforming Data into Intelligent Business Solutions</i>
-</p>
+*📊 Data Analytics • 📈 Business Analytics • 🤖 Artificial Intelligence • 🧠 AI & ML Enthusiast*
+
+Transforming Data into Intelligent Business Solutions
+
+</div>
 
 ---
 
@@ -17,7 +17,7 @@
 - 🎓 Final Year B.Tech Artificial Intelligence & Data Science Student
 - 📊 Passionate about Data Analytics & Business Analytics
 - 🤖 Exploring Artificial Intelligence & Machine Learning
-- 💡 Building data-driven solutions for real-world problems
+- 💡 Building AI-powered solutions for real-world business problems
 - 🌱 Currently learning Advanced AI, Machine Learning & Business Intelligence
 
 ---
@@ -31,10 +31,10 @@
 
 ---
 
-# 🛠️ Tech Stack
+# 💻 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,mysql,vscode,git,github" />
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
 </p>
 
 <p align="left">
@@ -45,40 +45,64 @@
 ---
 
 # 🚀 Featured Projects
+
+## 📈 AI-Powered Sales Forecasting System
+
+- Developed an LSTM-based Sales Forecasting Model
+- Performed Data Preprocessing & Feature Engineering
+- Built Interactive Business Dashboard
+- Generated Business Insights using AI
+
+*Technologies:* Python • LSTM • Pandas • NumPy • Power BI
+
+---
+
 ## 🛡️ AI Cyberbullying Detector
 
-- Built an NLP-based text classification model
-- Detected cyberbullying content using Machine Learning
-- Improved text preprocessing and prediction accuracy
+- Built an NLP-based Text Classification Model
+- Detected Cyberbullying using Machine Learning
+- Improved Prediction Accuracy through Text Preprocessing
 
-### 🛠️ Technologies
-Python • NLP • Machine Learning • Scikit-learn
+*Technologies:* Python • NLP • Machine Learning • Scikit-learn
 
 ---
 
 # 📜 Certifications
 
-- Artificial Intelligence & Data Science
-- Python Programming
-- Power BI
-- Data Analytics
+- 🏅 Artificial Intelligence & Data Science
+- 🏅 Python Programming
+- 🏅 Power BI
+- 🏅 Data Analytics
 
 ---
 
 # 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rkarunya10&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rkarunya10&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkarunya10&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rkarunya10&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkarunya10&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rkarunya10&theme=tokyonight"/>
 </p>
 
 ---
 
-<h3 align="center">⭐ Analyze • Visualize • Predict • Innovate ⭐</h3>
+# 🌟 Current Focus
+
+- 📊 Data Analytics
+- 📈 Business Analytics
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 📚 Continuous Learning & Skill Development
+
+---
+
+<div align="center">
+
+### ⭐ Analyze • Visualize • Predict • Innovate ⭐
+
+Thanks for visiting my profile!
+
+</div>
