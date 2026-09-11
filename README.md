@@ -95,8 +95,3 @@ Transforming Data into Intelligent Business Solutions
 Thanks for visiting my profile!
 
 </div>
----
---- ### 🖼️ GitHub Statistics [Trophies](https://github-profile-trophy.vercel.app/?username=rkarunya10&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-Trophies
-
-Trophies
