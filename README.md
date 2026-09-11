@@ -98,12 +98,6 @@ cyberbullying-related text through text classification.
 
 ---
 
-## 📈 GitHub Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rkarunya10&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)
-
----
-
 ## 💡 My Approach
 
 **Analyze → Visualize → Predict → Innovate**
