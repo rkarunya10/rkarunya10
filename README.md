@@ -14,11 +14,15 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Final Year B.Tech student specializing in **Artificial Intelligence & Data Science**
-- 📊 Interested in **Data Analytics** and **Business Analytics**
-- 🤖 Exploring **Artificial Intelligence and Machine Learning**
-- 💡 Interested in building practical, data-driven solutions
-- 🌱 Continuously learning and improving my technical skills
+I am a final-year **B.Tech Artificial Intelligence & Data Science** student
+with a strong interest in **Data Analytics, Business Analytics, Artificial Intelligence,
+and Machine Learning**.
+
+- 🎓 Final Year B.Tech — Artificial Intelligence & Data Science
+- 📊 Interested in transforming data into meaningful insights
+- 🤖 Exploring AI, Machine Learning, and NLP
+- 💡 Interested in solving practical problems with data and technology
+- 🌱 Continuously learning and developing my technical skills
 
 ---
 
@@ -28,14 +32,14 @@
 **Business Analytics**  
 **Artificial Intelligence**  
 **Machine Learning**  
-**Data Visualization**  
-**Natural Language Processing**
+**Natural Language Processing**  
+**Data Visualization**
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming & Data
+### Programming & Database
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -43,7 +47,7 @@
 ### Analytics & Visualization
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### Development Tools
 
@@ -57,27 +61,29 @@
 
 ### 🛡️ AI Cyberbullying Detector
 
-An NLP-based machine learning project designed to identify cyberbullying-related text.
+An **NLP-based machine learning project** focused on identifying
+cyberbullying-related text through text classification.
 
-**Key Work:**
+**Highlights**
 
-- Text preprocessing and cleaning
-- Natural Language Processing
-- Text classification
-- Machine learning model development
-- Prediction and evaluation
+- Developed text preprocessing and cleaning techniques
+- Applied Natural Language Processing concepts
+- Built a text classification workflow
+- Used machine learning for prediction
+- Evaluated model performance and predictions
 
-**Technologies:**  
+**Tech Stack**
+
 `Python` `NLP` `Machine Learning` `Scikit-learn`
 
 ---
 
 ## 📜 Certifications
 
-- Artificial Intelligence & Data Science
-- Python Programming
-- Power BI
-- Data Analytics
+- 🏅 Artificial Intelligence & Data Science
+- 🏅 Python Programming
+- 🏅 Power BI
+- 🏅 Data Analytics
 
 ---
 
@@ -85,8 +91,8 @@ An NLP-based machine learning project designed to identify cyberbullying-related
 
 - Artificial Intelligence
 - Machine Learning
-- Advanced Data Analytics
 - Natural Language Processing
+- Advanced Data Analytics
 - Business Intelligence
 - Data Visualization
 
@@ -102,14 +108,26 @@ An NLP-based machine learning project designed to identify cyberbullying-related
 
 **Analyze → Visualize → Predict → Innovate**
 
-I believe in continuously learning, experimenting with technology, and turning data into meaningful insights and practical solutions.
+I believe in continuously learning, experimenting with technology,
+and transforming data into meaningful insights and practical solutions.
+
+---
+
+## 🎯 Career Focus
+
+I am looking to grow through opportunities involving:
+
+**Data Analytics • Business Analytics • Artificial Intelligence • Machine Learning**
+
+My goal is to strengthen my technical expertise while working on
+real-world problems and building solutions that create meaningful impact.
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Analyze • Visualize • Predict • Innovate ⭐
 
-**Let's learn, build, and innovate with data & AI.**
+**Thanks for visiting my profile!**
 
 </div>
