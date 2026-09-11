@@ -14,42 +14,38 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 Final Year B.Tech student in **Artificial Intelligence & Data Science**
-* 📊 Passionate about **Data Analytics** and **Business Analytics**
-* 🤖 Exploring **Artificial Intelligence** and **Machine Learning**
-* 💡 Interested in building practical, data-driven solutions
-* 🌱 Continuously learning and developing my technical skills
+- 🎓 Final Year B.Tech student specializing in **Artificial Intelligence & Data Science**
+- 📊 Passionate about **Data Analytics** and **Business Analytics**
+- 🤖 Exploring **Artificial Intelligence** and **Machine Learning**
+- 💡 Interested in building practical, data-driven solutions
+- 🌱 Continuously learning and improving my technical skills
 
 ---
 
 ## 🎯 Areas of Interest
 
-* Data Analytics
-* Business Analytics
-* Artificial Intelligence
-* Machine Learning
-* Natural Language Processing
-* Data Visualization
+- 📊 Data Analytics
+- 📈 Business Analytics
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 📝 Natural Language Processing
+- 📉 Data Visualization
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming & Databases
+### Programming & Database
 
-* Python
-* MySQL
+**Python** • **MySQL**
 
 ### Analytics & Visualization
 
-* Power BI
-* Microsoft Excel
+**Power BI** • **Microsoft Excel**
 
 ### Development Tools
 
-* Git
-* GitHub
-* Visual Studio Code
+**Git** • **GitHub** • **VS Code**
 
 ---
 
@@ -62,11 +58,11 @@ cyberbullying-related text.
 
 **Key Work**
 
-* Text preprocessing and cleaning
-* Natural Language Processing
-* Text classification
-* Machine learning model development
-* Prediction and evaluation
+- Text preprocessing and cleaning
+- Natural Language Processing
+- Text classification
+- Machine learning model development
+- Prediction and evaluation
 
 **Technologies**
 
@@ -76,21 +72,21 @@ cyberbullying-related text.
 
 ## 📜 Certifications
 
-* Artificial Intelligence & Data Science
-* Python Programming
-* Power BI
-* Data Analytics
+- 🏅 Artificial Intelligence & Data Science
+- 🏅 Python Programming
+- 🏅 Power BI
+- 🏅 Data Analytics
 
 ---
 
 ## 🌱 Currently Learning
 
-* Artificial Intelligence
-* Machine Learning
-* Natural Language Processing
-* Advanced Data Analytics
-* Business Intelligence
-* Data Visualization
+- Artificial Intelligence
+- Machine Learning
+- Natural Language Processing
+- Advanced Data Analytics
+- Business Intelligence
+- Data Visualization
 
 ---
 
@@ -103,17 +99,18 @@ and exploring how AI and analytics can solve practical problems.
 
 ---
 
-## 🎓 Career Focus
+## 🎯 Career Focus
 
-I am building my foundation in **AI, Data Analytics, and Business Intelligence**
-while continuously working on practical projects and expanding my technical skills.
+I am interested in opportunities where I can apply my knowledge
+of **Artificial Intelligence, Data Analytics, Business Analytics,
+and Machine Learning** while continuing to learn and grow.
 
 ---
 
 <div align="center">
 
-### ⭐ Learning • Building • Innovating ⭐
+### ⭐ Analyze • Visualize • Predict • Innovate ⭐
 
-Thanks for visiting my profile!
+**Thanks for visiting my profile!**
 
 </div>
