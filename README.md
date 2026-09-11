@@ -94,8 +94,12 @@ An NLP-based machine learning project designed to identify cyberbullying-related
 
 ## 📈 GitHub Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rkarunya10&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)
-
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rkarunya10&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity"
+    alt="GitHub Activity Graph"
+  />
+</p>
 ---
 
 ## 💡 My Approach
