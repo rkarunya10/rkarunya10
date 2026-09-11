@@ -74,11 +74,15 @@
 
 <div align="center">
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=rkarunya10&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=rkarunya10&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+alt="Karunya's GitHub Statistics"/>
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkarunya10&layout=compact&theme=tokyonight&hide_border=true"/>
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkarunya10&layout=compact&theme=tokyonight&hide_border=true"
+alt="Karunya's Top Languages"/>
 
 </div>
 
@@ -89,30 +93,21 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkarunya10&l
 <div align="center">
 
 <img
-src="https://github-readme-streak-stats.herokuapp.com/?user=rkarunya10&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-streak-stats.herokuapp.com/?user=rkarunya10&theme=tokyonight&hide_border=true"
+alt="Karunya's GitHub Streak"/>
 
 </div>
 
 ---
 
-# 📈 GitHub Contribution Graph
+# 📈 GitHub Contribution Activity
 
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=rkarunya10&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
-# 🧊 3D Contribution Graph
-
-<div align="center">
-
-<img
-src="https://raw.githubusercontent.com/rkarunya10/rkarunya10/main/profile-3d-contrib/profile-night-rainbow.svg"
-width="100%"/>
+src="https://github-readme-activity-graph.vercel.app/graph?username=rkarunya10&theme=tokyo-night&hide_border=true&area=true&custom_title=Karunya's%20GitHub%20Activity"
+width="100%"
+alt="Karunya's GitHub Activity Graph"/>
 
 </div>
 
@@ -123,7 +118,9 @@ width="100%"/>
 <div align="center">
 
 <img
-src="https://github-profile-trophy.vercel.app/?username=rkarunya10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
+src="https://github-profile-trophy.vercel.app/?username=rkarunya10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"
+width="100%"
+alt="Karunya's GitHub Trophies"/>
 
 </div>
 
@@ -145,7 +142,9 @@ src="https://github-profile-trophy.vercel.app/?username=rkarunya10&theme=tokyoni
 
 ### 📊 Analyze • Visualize • Predict • Innovate
 
-![Profile Views](https://komarev.com/ghpvc/?username=rkarunya10&label=Profile%20Views&color=blue&style=for-the-badge)
+<img
+src="https://komarev.com/ghpvc/?username=rkarunya10&label=PROFILE%20VIEWS&color=blue&style=for-the-badge"
+alt="Profile Views"/>
 
 </div>
 
