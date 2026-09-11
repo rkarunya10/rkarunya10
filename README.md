@@ -73,7 +73,15 @@ Transforming Data into Intelligent Business Solutions
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rkarunya10&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=rkarunya10&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rkarunya10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rkarunya10&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
@@ -95,8 +103,3 @@ Transforming Data into Intelligent Business Solutions
 Thanks for visiting my profile!
 
 </div>
----
---- ### 🖼️ GitHub Statistics [Trophies](https://github-profile-trophy.vercel.app/?username=rkarunya10&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-Trophies
-
-Trophies
