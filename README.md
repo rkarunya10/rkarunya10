@@ -68,18 +68,22 @@ Transforming Data into Intelligent Business Solutions
 # 📊 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rkarunya10&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkarunya10&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=rkarunya10&theme=tokyonight" />
-</p>
-
-<p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=rkarunya10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=rkarunya10&theme=tokyonight&border_radius=10" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rkarunya10&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkarunya10&layout=compact&theme=tokyonight" />
+</p>
+
+### 📈 Contribution Graph
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rkarunya10&theme=tokyo-night&hide_border=true&area=true" />
 </p>
