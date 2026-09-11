@@ -15,8 +15,8 @@
 ## 👨‍💻 About Me
 
 - 🎓 Final Year B.Tech student specializing in **Artificial Intelligence & Data Science**
-- 📊 Passionate about **Data Analytics** and **Business Analytics**
-- 🤖 Exploring **Artificial Intelligence** and **Machine Learning**
+- 📊 Interested in **Data Analytics** and **Business Analytics**
+- 🤖 Exploring **Artificial Intelligence and Machine Learning**
 - 💡 Interested in building practical, data-driven solutions
 - 🌱 Continuously learning and improving my technical skills
 
@@ -24,28 +24,32 @@
 
 ## 🎯 Areas of Interest
 
-- 📊 Data Analytics
-- 📈 Business Analytics
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 📝 Natural Language Processing
-- 📉 Data Visualization
+**Data Analytics**  
+**Business Analytics**  
+**Artificial Intelligence**  
+**Machine Learning**  
+**Data Visualization**  
+**Natural Language Processing**
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming & Database
+### Programming & Data
 
-**Python** • **MySQL**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Analytics & Visualization
 
-**Power BI** • **Microsoft Excel**
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### Development Tools
 
-**Git** • **GitHub** • **VS Code**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -53,10 +57,9 @@
 
 ### 🛡️ AI Cyberbullying Detector
 
-An NLP-based machine learning project designed to identify
-cyberbullying-related text.
+An NLP-based machine learning project designed to identify cyberbullying-related text.
 
-**Key Work**
+**Key Work:**
 
 - Text preprocessing and cleaning
 - Natural Language Processing
@@ -64,18 +67,17 @@ cyberbullying-related text.
 - Machine learning model development
 - Prediction and evaluation
 
-**Technologies**
-
+**Technologies:**  
 `Python` `NLP` `Machine Learning` `Scikit-learn`
 
 ---
 
 ## 📜 Certifications
 
-- 🏅 Artificial Intelligence & Data Science
-- 🏅 Python Programming
-- 🏅 Power BI
-- 🏅 Data Analytics
+- Artificial Intelligence & Data Science
+- Python Programming
+- Power BI
+- Data Analytics
 
 ---
 
@@ -83,10 +85,16 @@ cyberbullying-related text.
 
 - Artificial Intelligence
 - Machine Learning
-- Natural Language Processing
 - Advanced Data Analytics
+- Natural Language Processing
 - Business Intelligence
 - Data Visualization
+
+---
+
+## 📈 GitHub Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rkarunya10&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)
 
 ---
 
@@ -94,23 +102,14 @@ cyberbullying-related text.
 
 **Analyze → Visualize → Predict → Innovate**
 
-I focus on understanding data, discovering meaningful insights,
-and exploring how AI and analytics can solve practical problems.
-
----
-
-## 🎯 Career Focus
-
-I am interested in opportunities where I can apply my knowledge
-of **Artificial Intelligence, Data Analytics, Business Analytics,
-and Machine Learning** while continuing to learn and grow.
+I believe in continuously learning, experimenting with technology, and turning data into meaningful insights and practical solutions.
 
 ---
 
 <div align="center">
 
-### ⭐ Analyze • Visualize • Predict • Innovate ⭐
+### ⭐ Thanks for visiting my profile!
 
-**Thanks for visiting my profile!**
+**Let's learn, build, and innovate with data & AI.**
 
 </div>
