@@ -96,23 +96,9 @@ Thanks for visiting my profile!
 
 </div>
 ---
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rkarunya10&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+### 📊 GitHub Statistics
+[Trophies](https://github-profile-trophy.vercel.app/?username=rkarunya10&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
-### 🔥 Streak & GitHub Stats
-![](https://streak-stats.demolab.com/?user=rkarunya10&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api?username=rkarunya10&show_icons=true&theme=tokyonight)
+[Trophies](https://streak-stats.demolab.com/?user=rkarunya10&theme=tokyonight)
 
-### 📈 Contribution Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=rkarunya10&theme=tokyo-night)
-
-### 🛠️ Tech Stack
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+[Trophies](https://github-readme-activity-graph.vercel.app/graph?username=rkarunya10&theme=tokyo-night)
